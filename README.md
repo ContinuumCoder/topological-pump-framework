@@ -15,7 +15,7 @@ This repository provides the implementation of the classical framework for Pauli
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/topological-pump-framework.git](https://github.com/YOUR_USERNAME/topological-pump-framework.git)
+    git clone https://github.com/ContinuumCoder/topological-pump-framework.git
     cd topological-pump-framework
     ```
 
