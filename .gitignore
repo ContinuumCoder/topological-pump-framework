@@ -1,0 +1,12 @@
+# Archivos de salida
+*.png
+*.svg
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Otros
+.DS_Store
